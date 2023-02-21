@@ -8,3 +8,5 @@ try:
     print(x)
 except:
     print("no value added")
+
+#try and except for faulty code
