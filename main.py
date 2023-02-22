@@ -41,3 +41,10 @@ n = 10
 while n>1:
     print("inc n am ajuns")
     n = n * 10 - 100
+
+big = 0
+print("start", big)
+for BIGGEST in [3,7,2,9,12,567,322,654]
+    if BIGGEST > big:
+        big = BIGGEST
+    print(big, BIGGEST)
